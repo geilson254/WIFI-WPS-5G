@@ -1,0 +1,7 @@
+{
+  "name": "WiFi WPS 5G - Official Hub v2.4",
+  "description": "Suíte definitiva de auditoria e segurança de redes wireless. Criado por Geilson com IA de ponta e suporte multiplataforma total (Windows, macOS, Android, iOS).",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
